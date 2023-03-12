@@ -6,20 +6,6 @@ W
 'src/main/java/me/sungbin/ch01/README.md,4/a/4a31bbe0f4af3ec908d93a880740ea66c8fe2748
 <
 build.gradle,f/0/f07866736216be0ee2aba49e392191aeae700a35
-Y
-)src/main/java/me/sungbin/ch02/VarEx2.java,9/4/94bd63cac57526da9948eaec4238f3e5a5824612
-Y
-)src/main/java/me/sungbin/ch02/VarEx1.java,5/8/58c57b08ebb96b54072a1d92c7b0c91bf13e00e5
-[
-+src/main/java/me/sungbin/ch02/StringEx.java,1/c/1c939432bd62764f6c1322e1a6e36abcf53eb5e6
-\
-,src/main/java/me/sungbin/ch02/PrintfEx1.java,9/e/9ed213f76c99a16efa4c4675ab097556c59c1ba4
-\
-,src/main/java/me/sungbin/ch02/PrintfEx2.java,b/4/b4ace108723069d7819ba72649f7a69723fdd0bc
-\
-,src/main/java/me/sungbin/ch02/ScannerEx.java,f/5/f56425f0c4a63a4b00e370ae30fa8a21c5cdf752
-W
-'src/main/java/me/sungbin/ch02/README.md,e/2/e220d35dbbcf4415ed0fb7f288d6894b3e95896d
 `
 0src/main/java/me/sungbin/ch02/SpecialCharEx.java,d/a/da601612d87d6ae0e86a9a9f8cbe9692ef9c1401
 ]
@@ -30,3 +16,7 @@ _
 /src/main/java/me/sungbin/ch02/FloatToBinEx.java,8/b/8ba8d26bc85879cf30e9f5822a9f67ea102e357b
 [
 +src/main/java/me/sungbin/ch02/FloatEx1.java,1/b/1b7d6dfd16234b7fd065900253c7d32aafb9b331
+X
+(src/main/java/me/sungbin/ch01/Hello.java,4/0/408bc20693d62a43060a378bd1f8bc28092a9499
+]
+-src/main/java/me/sungbin/ch01/Practice01.java,a/e/ae7d50426d3483a46a04299c13b4f2685cb7feaf
