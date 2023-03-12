@@ -22,7 +22,7 @@ public class OverflowEx {
         System.out.println("sMin = " + sMin);
         System.out.println("sMin - 1 = " + (short) (sMin - 1));
         System.out.println("sMax = " + sMax);
-        System.out.println("sMax + 1 = "  + (sMax + 1));
+        System.out.println("sMax + 1 = "  + (short) (sMax + 1));
         System.out.println("cMin = " + (int) cMin);
         System.out.println("cMin - 1 = " + (int) --cMin);
         System.out.println("cMax = " + cMax);
